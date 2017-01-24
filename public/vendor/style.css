@@ -1,0 +1,16 @@
+body{width:90%; margin:0 auto; text-align:center}
+h1{font-family:Verdana, Geneva, sans-serif; color:#066}
+h2{font-style:italic; border-bottom:thin solid #F33; color:#F33}
+
+body{
+background: -webkit-repeating-radial-gradient(left top, ellipse cover, rgba(50, 23, 109, 1) 0%, rgba(255, 255, 255, 0.8) 100%);/* Chrome10+,Safari5.1+ */
+background: -moz-repeating-radial-gradient(left top, ellipse farthest-corner, rgba(50, 23, 109, 1) 0%, rgba(255, 255, 255, 0.8) 100%);/* FF3.6+ */
+background: -o-repeating-radial-gradient(left top, ellipse farthest-corner, rgba(50, 23, 109, 1) 0%, rgba(255, 255, 255, 0.8) 100%);/* Opera 11.10+ */
+background: -ms-repeating-radial-gradient(left top, ellipse farthest-corner, rgba(50, 23, 109, 1) 0%, rgba(255, 255, 255, 0.8) 100%); /* IE10+ */
+background: repeating-radial-gradient( ellipse farthest-corner at left top, rgba(50, 23, 109, 1) 0%, rgba(255, 255, 255, 0.8) 100%);/* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient(GradientType=1, startColorstr=#32176D, endColorstr=#FFFFFF);/* IE6-8 */
+background-size: 200%;
+
+}
+
+a{width:90%; margin:0 auto; text-align:center; font-family:Verdana, Geneva, sans-serif; }
