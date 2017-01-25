@@ -1,3 +1,3 @@
 -w -p 8080
-require './app'
+require './app.rb'
 run Sinatra::Application
